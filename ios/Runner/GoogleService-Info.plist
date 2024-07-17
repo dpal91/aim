@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827089991588-06svd85244ondbfskhalo4tc9gnht1eu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827089991588-06svd85244ondbfskhalo4tc9gnht1eu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>827089991588-1u5qu1uic7n9q5cfa7mfmqkj8r586gts.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4IKJEgb7SDnVHFppvRHOQZfyUXO5VlDQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827089991588</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aimparikshaa.app</string>
+	<key>PROJECT_ID</key>
+	<string>aimpariksha-5ef54</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aimpariksha-5ef54.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827089991588:ios:a01305e2d3dd4b734fb331</string>
+</dict>
+</plist>
