@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827089991588",
+    "project_id": "aimpariksha-5ef54",
+    "storage_bucket": "aimpariksha-5ef54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827089991588:android:909328550b77ceff4fb331",
+        "android_client_info": {
+          "package_name": "com.aimparikshaa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827089991588-1u5qu1uic7n9q5cfa7mfmqkj8r586gts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aimparikshaa.app",
+            "certificate_hash": "ed0c57cdd6765dd2c9ae6716c32168b51d7b7e6d"
+          }
+        },
+        {
+          "client_id": "827089991588-7mfj63m9chucg8ft2jfgji71gag2vuq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA3OqgqYhDB8p6b51tZaARVE1RG4yuPx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827089991588-7mfj63m9chucg8ft2jfgji71gag2vuq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
